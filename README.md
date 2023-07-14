@@ -79,9 +79,9 @@ Terraform используется для автоматизации разве�
 
 ### Ответ
 
-Установка Terraform
+Установка Terraform 
 
-<a href="https://ibb.co/jRS5d8W"><img src="https://i.ibb.co/jRS5d8W/7-2-1.png" alt="7-2-1" border="0"></a>
+<a href="https://ibb.co/2s2FTwb"><img src="https://i.ibb.co/2s2FTwb/7-2-1.png" alt="7-2-1" border="0"></a>
 <a href="https://ibb.co/2Sh6kS6"><img src="https://i.ibb.co/2Sh6kS6/7-2-2.png" alt="7-2-2" border="0"></a>
 <a href="https://ibb.co/qp71m3R"><img src="https://i.ibb.co/qp71m3R/7-2-3.png" alt="7-2-3" border="0"></a>
 
